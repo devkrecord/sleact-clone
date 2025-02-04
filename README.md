@@ -1,2 +1,2 @@
-# sleact-clone
-inflearn zerocho sleact clone coding 
+# slack-clone
+inflearn zerocho slack clone coding 
